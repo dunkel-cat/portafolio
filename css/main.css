@@ -86,7 +86,7 @@
 	color:#f05f40;
 	font-size: 100px;
 	padding-top: 100px;
-	margin-left: 80px;
+	
 }
 
 .linea-negro{
@@ -161,14 +161,7 @@
 .parrafo-plomito{
   font-size: 2em;
 }
-.ico-footer1{
+.ico-footer{
   font-size: 50px;
-  margin-left:33%; 
-}
-.ico-footer2{
-  font-size: 50px;
-  margin-left:50%; 
-}
-.iconos{
-  border:1px solid green;
+
 }
