@@ -3,9 +3,7 @@
 .text-white{
 	color: white
 }
-.text-center{
-	text-align: center;
-}
+
 .pd-5-10{
 	padding: 2% 13%;
 }
@@ -49,7 +47,9 @@
 .parrafo1{
 	margin:4px;
 	margin: 43px;
-    font-size: 19px;
+  font-size: 19px;
+  padding-right: 80px;
+  padding-left: 80px;
 }
 .linea{
 	width: 70px;
@@ -61,10 +61,10 @@
     background-color: #f05f40;
     border-color: #f05f40;
     border-radius: 26px;
-    margin-left: 43%;
     padding: 15px 40px;
+    margin-left: 43%;
 }
-/*=====================================================================Section 1==============================================================*/
+/*=================================================================Section 1==============================================================*/
 
 .box-red{
     background-color: #f05f40;
@@ -161,8 +161,14 @@
 .parrafo-plomito{
   font-size: 2em;
 }
-.ico-footer{
+.ico-footer1{
   font-size: 50px;
-  margin:0 auto;
-  margin-left: 32%;
+  margin-left:33%; 
+}
+.ico-footer2{
+  font-size: 50px;
+  margin-left:50%; 
+}
+.iconos{
+  border:1px solid green;
 }
