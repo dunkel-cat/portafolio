@@ -22,6 +22,7 @@
 	position: fixed;
 	width: 100%;
 	margin: 0;
+  z-index: 1;
 }
 .navbar-default .navbar-brand{
 	color: red;
@@ -108,8 +109,6 @@
       padding: 0;
       position: relative;
       background-color:#f05f40;
-      margin-top: 30px;
-      margin-bottom: 0;
     }
 
     .vividworknav:hover img {
@@ -145,9 +144,16 @@
       text-align: center;
       opacity: 0;
     }
+.col-md-4 {
+      padding: 0px;
+      margin: 0px;
+    }
 /*=====================================================================footer==============================================================*/
 .plomito{
-   background-color: gray;
-    height: 400px;
+   background-color: #3e3f40;
+    height: 200px;
     margin-top: 0;
+}
+.parrafo-plomito{
+  font-size: 2em;
 }
