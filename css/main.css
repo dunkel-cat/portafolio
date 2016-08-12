@@ -109,6 +109,7 @@
       padding: 0;
       position: relative;
       background-color:#f05f40;
+      
     }
 
     .vividworknav:hover img {
@@ -144,10 +145,13 @@
       text-align: center;
       opacity: 0;
     }
+.padding{
+      padding-top: 5%;
+    } 
 .col-md-4 {
       padding: 0px;
       margin: 0px;
-    }
+    }   
 /*=====================================================================footer==============================================================*/
 .plomito{
    background-color: #3e3f40;
@@ -156,4 +160,7 @@
 }
 .parrafo-plomito{
   font-size: 2em;
+}
+.ico-footer{
+  font-size: 50px;
 }
